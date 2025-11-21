@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\c# projects\\ATM Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|e:\\c#\\c# projects\\atm management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\siginup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:siginup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\siginup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:siginup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\fastcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:fastcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\fastcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:fastcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\checkbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:checkbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\checkbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:checkbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|E:\\C#\\c# projects\\ATM Management System\\changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41F89749-C313-4303-8676-E71F19E99FDF}|ATM Management System.csproj|solutionrelative:changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WithDraw.cs",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\WithDraw.cs",
+              "RelativeDocumentMoniker": "WithDraw.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\WithDraw.cs",
+              "RelativeToolTip": "WithDraw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:22:45.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Siginup.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\Siginup.cs",
+              "RelativeDocumentMoniker": "Siginup.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\Siginup.cs [Design]",
+              "RelativeToolTip": "Siginup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:22:37.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:22:34.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MiniStatement.cs",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\MiniStatement.cs",
+              "RelativeDocumentMoniker": "MiniStatement.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\MiniStatement.cs",
+              "RelativeToolTip": "MiniStatement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvxAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:22:23.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiniStatement.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\MiniStatement.cs",
+              "RelativeDocumentMoniker": "MiniStatement.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\MiniStatement.cs [Design]",
+              "RelativeToolTip": "MiniStatement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:22:20.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:22:17.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:22:16.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:22:06.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WithDraw.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\WithDraw.cs",
+              "RelativeDocumentMoniker": "WithDraw.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\WithDraw.cs [Design]",
+              "RelativeToolTip": "WithDraw.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:22:44.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Siginup.cs",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\Siginup.cs",
+              "RelativeDocumentMoniker": "Siginup.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\Siginup.cs",
+              "RelativeToolTip": "Siginup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:25:46.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\Login.cs [Design]*",
+              "RelativeToolTip": "Login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:22:04.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.cs",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\Home.cs",
+              "RelativeToolTip": "Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:21:58.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DBAccess.cs",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\DBAccess.cs",
+              "RelativeDocumentMoniker": "DBAccess.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\DBAccess.cs",
+              "RelativeToolTip": "DBAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:21:06.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CheckBalance.cs",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\CheckBalance.cs",
+              "RelativeDocumentMoniker": "CheckBalance.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\CheckBalance.cs",
+              "RelativeToolTip": "CheckBalance.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADgvxIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:21:01.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Deposit.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\Deposit.cs",
+              "RelativeDocumentMoniker": "Deposit.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\Deposit.cs [Design]",
+              "RelativeToolTip": "Deposit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:17:17.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\Deposit.cs",
+              "RelativeDocumentMoniker": "Deposit.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\Deposit.cs",
+              "RelativeToolTip": "Deposit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:17:19.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FastCash.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\FastCash.cs",
+              "RelativeDocumentMoniker": "FastCash.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\FastCash.cs [Design]",
+              "RelativeToolTip": "FastCash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:29:42.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FastCash.cs",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\FastCash.cs",
+              "RelativeDocumentMoniker": "FastCash.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\FastCash.cs",
+              "RelativeToolTip": "FastCash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:29:46.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\Home.cs [Design]",
+              "RelativeToolTip": "Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:24:44.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CheckBalance.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\CheckBalance.cs",
+              "RelativeDocumentMoniker": "CheckBalance.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\CheckBalance.cs [Design]",
+              "RelativeToolTip": "CheckBalance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:20:58.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChangePIN.cs",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\ChangePIN.cs",
+              "RelativeDocumentMoniker": "ChangePIN.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\ChangePIN.cs",
+              "RelativeToolTip": "ChangePIN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:20:49.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChangePIN.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\c# projects\\ATM Management System\\ChangePIN.cs",
+              "RelativeDocumentMoniker": "ChangePIN.cs",
+              "ToolTip": "E:\\C#\\c# projects\\ATM Management System\\ChangePIN.cs [Design]",
+              "RelativeToolTip": "ChangePIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:20:37.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

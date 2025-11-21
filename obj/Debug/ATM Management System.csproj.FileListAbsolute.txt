@@ -1,0 +1,38 @@
+F:\C#\c# projects\ATM Management System\bin\Debug\ATM Management System.exe.config
+F:\C#\c# projects\ATM Management System\bin\Debug\ATM Management System.exe
+F:\C#\c# projects\ATM Management System\bin\Debug\ATM Management System.pdb
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.ChangePIN.resources
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.CheckBalance.resources
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.Deposit.resources
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.FastCash.resources
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.Home.resources
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.Login.resources
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.Main.resources
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.Properties.Resources.resources
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.Siginup.resources
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM Management System.csproj.GenerateResource.cache
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM Management System.csproj.CoreCompileInputs.cache
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM Management System.exe
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM Management System.pdb
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM Management System.csproj.AssemblyReference.cache
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.WithDraw.resources
+F:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.MiniStatement.resources
+E:\C#\c# projects\ATM Management System\bin\Debug\ATM Management System.exe.config
+E:\C#\c# projects\ATM Management System\bin\Debug\ATM Management System.exe
+E:\C#\c# projects\ATM Management System\bin\Debug\ATM Management System.pdb
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM Management System.csproj.AssemblyReference.cache
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.ChangePIN.resources
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.CheckBalance.resources
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.Deposit.resources
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.FastCash.resources
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.Home.resources
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.Login.resources
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.Main.resources
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.MiniStatement.resources
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.Properties.Resources.resources
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.Siginup.resources
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM_Management_System.WithDraw.resources
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM Management System.csproj.GenerateResource.cache
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM Management System.csproj.CoreCompileInputs.cache
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM Management System.exe
+E:\C#\c# projects\ATM Management System\obj\Debug\ATM Management System.pdb
